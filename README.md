@@ -64,21 +64,14 @@ END
 
 **Output:**  
 
-<br>
-<br>
-<br>
+<img width="1918" height="1010" alt="factorial out put" src="https://github.com/user-attachments/assets/ea4ec433-2de2-466d-b0b9-458233bfcbc1" />
+
 
 
 
 **Manual Calculations:**  
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
+![WhatsApp Image 2025-11-09 at 11 43 21](https://github.com/user-attachments/assets/015f372b-641f-4fb9-9357-614b299e357d)
 
 
 
